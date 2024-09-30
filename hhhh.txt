@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorando la Inteligencia Artificial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #0073e6;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #0073e6;
+            text-decoration: none;
+        }
+        section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Explorando la Inteligencia Artificial</h1>
+    <nav>
+        <a href="#definicion">¿Qué es?</a>
+        <a href="#historia">Historia</a>
+        <a href="#aplicaciones">Aplicaciones</a>
+        <a href="#retos">Retos y Ética</a>
+        <a href="#futuro">Futuro</a>
+    </nav>
+</header>
+
+<section id="definicion">
+    <h2>¿Qué es la Inteligencia Artificial?</h2>
+    <img src="images(1).jfif"
+    <p>
+        La inteligencia artificial (IA) es una rama de la informática que se centra en la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el reconocimiento de voz, la toma de decisiones y el aprendizaje. La IA puede clasificarse en dos categorías principales: IA débil, que está diseñada para realizar tareas específicas, e IA fuerte, que tiene capacidades cognitivas similares a las de un ser humano.
+    </p>
+</section>
+
+<section id="historia">
+    <h2>Historia de la Inteligencia Artificial</h2>
+    <img src="https://example.com/historia-ia.jpg" alt="Historia de la IA">
+    <p>
+        La IA tiene sus raíces en la antigüedad, pero el campo moderno comenzó en 1956 en una conferencia en Dartmouth College. Desde entonces, ha pasado por períodos de gran entusiasmo y decepción, conocidos como "inviernos de la IA". En los últimos años, el auge del aprendizaje automático y el aumento de la potencia computacional han revitalizado el interés en la IA.
+    </p>
+</section>
+
+<section id="aplicaciones">
+    <h2>Aplicaciones de la Inteligencia Artificial</h2>
+    <img src="https://example.com/aplicaciones-ia.jpg" alt="Aplicaciones de IA">
+    <ul>
+        <li><strong>Asistentes virtuales:</strong> Como Siri, Alexa y Google Assistant, que utilizan IA para entender y responder preguntas.</li>
+        <li><strong>Reconocimiento de imágenes:</strong> Utilizado en redes sociales y en sistemas de seguridad para identificar y clasificar objetos.</li>
+        <li><strong>Diagnóstico médico:</strong> Herramientas que analizan datos médicos para ayudar a diagnosticar enfermedades.</li>
+        <li><strong>Automatización de procesos:</strong> En industrias, la IA optimiza y automatiza tareas repetitivas.</li>
+        <li><strong>Vehículos autónomos:</strong> Autos que utilizan IA para navegar sin intervención humana.</li>
+    </ul>
+</section>
+
+<section id="retos">
+    <h2>Retos y Ética en la Inteligencia Artificial</h2>
+    <img src="https://example.com/retos-ia.jpg" alt="Retos de la IA">
+    <p>
+        A pesar de sus avances, la IA enfrenta varios retos, entre ellos:
+    </p>
+    <ul>
+        <li><strong>Bias y Discriminación:</strong> Los algoritmos pueden perpetuar sesgos existentes en los datos.</li>
+        <li><strong>Privacidad:</strong> La recopilación de datos personales plantea preocupaciones sobre la privacidad.</li>
+        <li><strong>Seguridad:</strong> La IA puede ser utilizada para fines maliciosos, como ciberataques.</li>
+        <li><strong>Responsabilidad:</strong> La falta de claridad sobre quién es responsable de las decisiones tomadas por la IA.</li>
+    </ul>
+</section>
+
+<section id="futuro">
+    <h2>El Futuro de la Inteligencia Artificial</h2>
+    <img src="https://example.com/futuro-ia.jpg" alt="Futuro de la IA">
+    <p>
+        Se espera que la IA continúe evolucionando y desempeñe un papel crucial en diversas industrias. Se prevé que tecnologías como el aprendizaje profundo y el procesamiento del lenguaje natural mejoren la capacidad de la IA para interactuar con los humanos y tomar decisiones complejas. Sin embargo, también es vital que se aborden los desafíos éticos y de seguridad asociados con su desarrollo.
+    </p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Explorando la Inteligencia Artificial - Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
